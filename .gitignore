@@ -1,0 +1,16 @@
+docs/site/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+tests/__pycache__/*
+*.pytest_cache/
+*.pyc
+manual_test/
+
+# other local dev info
+.vscode/
+cookiecutter_data_science.egg-info/
+
